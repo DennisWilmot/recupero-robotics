@@ -1,8 +1,0 @@
-{"timestamp":"00:00:01.518","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:17.936","source":"Server","level":"LOG","message":"○ Compiling / ..."}
-{"timestamp":"00:00:57.452","source":"Browser","level":"WARN","message":"Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly."}
-{"timestamp":"00:00:57.459","source":"Server","level":"WARN","message":"[browser] \"Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.\""}
-{"timestamp":"00:00:57.459","source":"Browser","level":"WARN","message":"Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly."}
-{"timestamp":"00:03:06.262","source":"Browser","level":"WARN","message":"Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly."}
-{"timestamp":"00:03:06.264","source":"Server","level":"WARN","message":"[browser] \"Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.\""}
-{"timestamp":"00:03:06.265","source":"Browser","level":"WARN","message":"Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly."}

@@ -14,8 +14,8 @@ export default function HomePage() {
     <>
       {/* ═══ 1. HERO — Who we are ═══ */}
       <section className="relative overflow-hidden">
-        <div className="container-site grid grid-cols-1 lg:grid-cols-[0.9fr_1.1fr] gap-10 lg:gap-0 items-center pt-8 pb-0 lg:pt-16 lg:pb-0">
-          <AnimatedSection className="pb-14 lg:pb-20">
+        <div className="container-site grid grid-cols-1 lg:grid-cols-[0.9fr_1.1fr] gap-10 lg:gap-0 items-center min-h-[480px] lg:min-h-[540px]">
+          <AnimatedSection className="py-12 lg:py-16 flex flex-col justify-center">
             <p className="text-green-700 font-display font-semibold text-sm tracking-wider uppercase mb-4">
               Strength &middot; Movement &middot; Dexterity
             </p>
@@ -47,9 +47,9 @@ export default function HomePage() {
 
           <AnimatedSection delay={0.15}>
             <img
-              src="/ppt-media/image2.jpeg"
+              src="/ppt-media/hero-theabot.png"
               alt="Patient using THEAbot rehabilitation technology"
-              className="w-full h-full object-cover min-h-[360px] lg:min-h-[520px]"
+              className="w-full object-cover object-top h-[420px] lg:h-[540px]"
             />
           </AnimatedSection>
         </div>
