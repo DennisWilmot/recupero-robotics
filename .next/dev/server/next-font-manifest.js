@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/denniswilmot/recuperorobotics/app/layout\":[\"static/media/de42cfb9a3b980ae-s.p.woff2\",\"static/media/c609bc916991e10c-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
